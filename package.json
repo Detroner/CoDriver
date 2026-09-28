@@ -6,6 +6,7 @@
   "author": "CoDriver Team",
   "license": "MIT",
   "scripts": {
+    "postinstall": "node scripts/install-electron.js",
     "dev": "vite",
     "build": "tsc && vite build",
     "build:electron": "tsc -p tsconfig.electron.json",
