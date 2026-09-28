@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Send, Square, Sparkles, CornerDownLeft } from 'lucide-react';
+import { Square, Sparkles, CornerDownLeft } from 'lucide-react';
 import { Workspace } from '../../../types';
 
 interface PromptInputProps {

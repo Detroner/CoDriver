@@ -3,12 +3,10 @@ import {
   X, 
   Github, 
   KeyRound, 
-  ExternalLink, 
   Download, 
   Search, 
   Lock, 
   Globe, 
-  CheckCircle2, 
   Loader2,
   LogOut
 } from 'lucide-react';

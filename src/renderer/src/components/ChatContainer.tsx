@@ -9,7 +9,7 @@ import {
   BrainCircuit,
   Code2
 } from 'lucide-react';
-import { ChatMessage, ToolCall } from '../../../types';
+import { ChatMessage } from '../../../types';
 
 interface ChatContainerProps {
   messages: ChatMessage[];

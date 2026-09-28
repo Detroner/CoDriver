@@ -5,7 +5,6 @@ import {
   Github, 
   RefreshCw, 
   Settings as SettingsIcon,
-  ShieldCheck,
   FolderGit2
 } from 'lucide-react';
 import { ServiceStatus, GitHubUser, Workspace, GitStatusResult } from '../../../types';

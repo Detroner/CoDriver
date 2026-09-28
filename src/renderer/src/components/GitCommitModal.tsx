@@ -2,15 +2,10 @@ import React, { useState, useEffect } from 'react';
 import { 
   X, 
   GitBranch, 
-  GitCommit, 
   UploadCloud, 
   FileCode, 
   Plus, 
-  Trash, 
-  Edit3, 
-  Check, 
-  Loader2,
-  FileCheck
+  Loader2
 } from 'lucide-react';
 import { Workspace, GitStatusResult } from '../../../types';
 

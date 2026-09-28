@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { X, Settings as SettingsIcon, Save, Folder, RefreshCw, Check } from 'lucide-react';
+import { X, Settings as SettingsIcon, Save, Folder, Check } from 'lucide-react';
 import { AppSettings } from '../../../types';
 
 interface SettingsModalProps {
